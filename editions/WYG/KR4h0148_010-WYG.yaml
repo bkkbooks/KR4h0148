@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷四
+  hash: sha256:c340dec24d363bce82f85915fe6e5d90a5f124d3f9055ba3141230f717f1959a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_010-1a, image: WYG1448/WYG1448-0123c.png}
+body:
+  text: 隴西李白詩四目錄門有車馬客行東海有勇婦黃葛篇塞下曲來日大難玉堦怨襄陽曲大堤曲邯鄲才人嫁為厮飬卒婦北上行短歌行枯魚過河泣丁督䕶歌樹中草君馬黃少年子少年行豫章行沐浴子静夜思緑水曲春思子夜吳歌對酒行估客行長相思去婦詞
+  hash: sha256:8644620e50b5c873283c37b4ec7ae1091a29e62c8fdc8cbd1a9d47bbe243b57e
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷四目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_010.txt
+hash: sha256:78cba9e58a59a9b31ec703a1cbd86ae1735e5574a115c1943a9a00c88eee47fe

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/22
+seq: 22
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷十
+  hash: sha256:046586b2082d6283cfff278cb3de2769da695ebf7eec5375a44fa2cf5e216dc6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_022-1a, image: WYG1448/WYG1448-0227a.png}
+body:
+  text: 襄陽杜甫詩二目録喜晴述懷一首送樊二十三侍御赴漢中判官送從弟亞赴安西判官彭衙行北征得舍弟消息玉華宫九成宫羌村洗兵馬留花門李鄠縣丈人胡馬行義鶻畫鶻行瘦馬行新安吏潼關吏石壕吏新婚别垂老别無家别遣興三首幽人佳人赤谷西崦人家西枝村尋置草堂地夜宿贊公土室夢李白二首遣興遣興前出塞九首後出塞五首萬丈潭兩當縣吳十侍御江上宅發秦州鐵堂峽鹽井寒硤法鏡寺青陽峽龍門鎮石龕
+  hash: sha256:48a6619a5157659139a29dc361e1fa44bc00c31a9eec0fc983e221ab076d38f7
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷十目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_022.txt
+hash: sha256:c0c7d16ae13c21fedd04632c40a5cd3f69772d12f8aa78e93fd1a841e3457dfd

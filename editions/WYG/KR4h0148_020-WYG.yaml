@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/20
+seq: 20
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻九
+  hash: sha256:756f871fc27224e6711258b7b3c8a5357b51fd322ad5cd8b60473a210cff9fa5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_020-1a, image: WYG1448/WYG1448-0207c.png}
+body:
+  text: 襄陽杜甫詩一目録奉贈韋左丞丈二十二韻送髙三十五書記贈李白遊龍門奉先寺望嶽陪李北海宴歴下亭登歴下古城員外新亭𤣥都壇歌貧交行兵車行髙都䕶驄馬行天育驃騎歌白絲行醉時歌醉歌行贈衛八處士同諸公登慈恩寺塔示從孫濟送孔巢父謝病歸逰江東兼呈李白飲中八仙歌曲江麗人行樂逰園歌渼陂行奉同郭給事湯東靈湫作夜聴許十損誦詩愛而有作沙苑行驄馬行自京赴奉先縣詠懐五百字奉先劉少府新畫山水障歌白水縣崔少府十九翁髙齋三十韻三川觀水漲二十韻悲陳陶悲青坂哀江頭哀王孫大雲寺賛公房蘇端薛復筵簡薛華醉歌晦日尋崔戢李封
+  hash: sha256:10976ce5c7b1a7533fe0d7dbfafa7334007f36217622e77da6a8617094266773
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷九目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_020.txt
+hash: sha256:8dc74b38d4f7de92aff01c8fa2587980fbdc3c6abf6740aa6265eba76dc82b8f

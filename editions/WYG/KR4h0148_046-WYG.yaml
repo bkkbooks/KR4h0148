@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/46
+seq: 46
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻二十二
+  hash: sha256:a02881975cf986ced166a86e39138fd887ec600a6b1d1fd49a90d8cb6291c65d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_046-1a, image: WYG1448/WYG1448-0447a.png}
+body:
+  text: 太原白居易詩四目録江南遇天寶樂叟醉後走筆酬劉五主簿長句之贈兼簡張大賈二十四先輩昆季畫竹歌長恨歌琵琶引醉後狂言酬贈蕭殷二協律秋江晚泊代書詩一百韻寄微之和談校書秋夜感懷呈朝中親友感秋寄逺春題華陽觀縣西郊秋寄贈馬造早春獨遊曲江江南送北客因慿寄徐州兄弟書
+  hash: sha256:26797ae2d070c874072e5afd2ef8ece97bda231125caf8bbb5e6c1a058bc3813
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十二目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_046.txt
+hash: sha256:1e66625e5681eb514e49569c8901fecfab1797803f5820c0226a76e08dbc9bf4

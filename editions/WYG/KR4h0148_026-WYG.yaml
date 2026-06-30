@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/26
+seq: 26
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻十二
+  hash: sha256:78ba0acae1de2bdd75558d0f9a43135da2aac9207a3460f748caacaa02241ccb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_026-1a, image: WYG1448/WYG1448-0270a.png}
+body:
+  text: 襄陽杜甫詩四目錄雨又上後園山脚種萵苣八哀詩贈司空王公思禮故司徒李公光弼贈左僕射鄭國公嚴公武贈太子太師汝陽郡王璡贈秘書監江夏李公邕故秘書少監武功蘇公源明故著作郎貶台州司戸滎陽鄭公䖍故右僕射相國張公九齡寫懷觀公孫大娘弟子舞劔器行同元使君舂陵行李潮八分小篆歌聽楊氏歌荆南兵馬使太常卿趙公大食刀歌王兵馬使二角鷹狄明府秋風二首虎牙行後苦寒行二首夜歸醉為馬墜諸公攜酒相㸔大覺髙僧蘭若宿青溪驛奉懷張員外十五兄之緒憶昔行魏將軍歌北風白鳬行醉歌行贈公安顔少府請顧八題壁夜聞􅓋篥發劉郎浦別董頲送顧八分文學適洪吉州遣遇解憂宿鑿石浦過津口次空靈岸宿花石戌望嶽岳麓山道林二寺行歲晏行追酬故髙蜀州人日見寄蘇大侍御訪江浦賦八韻紀異題衡山縣文宣王廟新學堂呈陸宰
+  hash: sha256:9826259c61726b4cb8cab20d651bcb1c9b9de833494d8b268a92b8bfb6d511b9
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷十二目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_026.txt
+hash: sha256:b9e1ec9f10f9d9f34a5479bd2a0ec42819050c4226bf3c8a4d33e2bd4de9903a

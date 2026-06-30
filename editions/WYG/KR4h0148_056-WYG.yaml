@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/56
+seq: 56
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻二十七
+  hash: sha256:be16da00f4485289379c7d0d3d65873765aa7e3fecf59f05b19058f07c35a550
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_056-1a, image: WYG1448/WYG1448-0533c.png}
+body:
+  text: 昌黎韓愈詩一目錄元和聖德詩琴操十首將歸操猗蘭操龜山操越裳操拘幽操岐山操履霜操雉朝飛操别鵠操殘形操南山詩謝自然詩秋懐詩十一首
+  hash: sha256:076904a72619e312f5443e7b72e38fcbe7750cd21ad4cf6f18c3102e667d5888
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十七目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_056.txt
+hash: sha256:7d1feaf139ffad4e7a02a05690bac8d670f49013ccf70820d2ce70cd413df2c2

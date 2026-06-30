@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/8
+seq: 8
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷三
+  hash: sha256:28694b32903d0170e8ae42fea50e595de46f5561b83313a823e183a3b441031e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_008-1a, image: WYG1448/WYG1448-0112a.png}
+body:
+  text: 隴西李白詩三目録關山月獨漉篇登髙丘而望逺海雙燕離山人勸酒于闐采花鞠歌行幽澗泉王昭君荆州歌雉子斑相逢行有所思久别離白頭吟采蓮曲臨江王節士歌長干行古朗月行獨不見白紵辭鳴雁行妾薄命幽州胡馬客歌
+  hash: sha256:4e10b95f8034b1ee8f73d5714195f4c0a9ec56633de0935db38cf62f4824c880
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷三目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_008.txt
+hash: sha256:d109aea78eef4bf9e375aef4278cee2a11d5e0ca57ade7e1953d8b439a0a0a7f

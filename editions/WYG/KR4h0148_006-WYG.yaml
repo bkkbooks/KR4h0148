@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻二
+  hash: sha256:1753e9c735dda3aebf2f5ec014a5c22c94bdcd31987df5dfd8ec05ef92dea516
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_006-1a, image: WYG1448/WYG1448-0099c.png}
+body:
+  text: 隴西李白詩二目錄逺别離蜀道難梁甫吟烏夜啼烏棲曲戰城南行行且游獵篇飛龍引行路難長相思上留田行前有一樽酒行夜坐吟野田黃雀行箜篌謡夷則格上白鳩拂舞辭日出行北風行
+  hash: sha256:6124af0eceed17bb2b5808adc510968256627d377d178e25699c72b65ab90a02
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_006.txt
+hash: sha256:d4680ba14084dde7e57e9c143345ba22a6fb6df6866c2114f6ed340d2f3434b1

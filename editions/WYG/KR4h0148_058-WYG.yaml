@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/58
+seq: 58
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻二十八
+  hash: sha256:3a0d48147ed66c6b092d8b05c85a061e0b98bc830505e33b661cdbe5f0268325
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_058-1a, image: WYG1448/WYG1448-0546a.png}
+body:
+  text: 昌黎韓愈詩二目録赴江陵途中寄贈王二十補闕李十一拾遺李二十六員外翰林三學士此日足可惜一首贈張籍歸彭城醉贈張秘書送惠師送靈師縣齋有懷陪杜侍御逰湘西兩寺獨宿有題一首因獻楊常侍岳陽樓别竇司直送文暢師北逰答張徹
+  hash: sha256:76990ebf96e7cc6175ef282015abee7f424de3213c0bd522b9b47ddc52ee0468
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十八目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_058.txt
+hash: sha256:1d3666c648560395280c99d226159d4253701b080446d2dd6c76451df4d33b59

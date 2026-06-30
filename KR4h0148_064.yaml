@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/64
+seq: 64
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷三十一
+  hash: sha256:cfcdbf3b48d95d8659561cc944607c6c4d6e2d83bea5af5e33ee043c07630706
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_064-1a, image: WYG1448/WYG1448-0589a.png}
+body:
+  text: 昌黎韓愈詩五目録短燈檠歌病鴟華山女瀧吏除官赴闕至江州寄鄂嶽李大夫南山有高樹行贈李宗閔猛虎行雪後寄崔二十六丞公奉酬盧給事雲夫四兄曲江荷花行見寄并呈上錢七兄閣老張十八助教記夢南內朝賀歸呈同官讀東方朔雜事庭楸南溪始泛三首題楚昭王廟答張十一功曹題木居士和歸工部送僧約入關詠馬木芙蓉奉和庫部盧四兄曹長元日朝回奉和裴相公東征途經女几山下作次潼關先寄張十二閣老使君晉公破賊回重拜台司以詩示幕中賓客愈奉和左遷至藍關示姪孫湘晚次宣溪辱韶州張端公使君惠書叙别酬以絶句二章量移袁州張韶州端公以詩相賀因酬之奉和兵部張侍郎酬鄆州馬尚書祇召途中見寄開緘之日馬帥已再領鄆州之作奉酬天平馬十二僕射暇日言懷見寄之作奉使鎮州行次承天行營奉酬裴司空奉和僕射裴相公感恩言志和僕射相公朝回見寄
+  hash: sha256:49d2ba029eba2fec641f7377a6b359f97fd5d90bb1b91bb2727432322dc616fd
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷三十一目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_064.txt
+hash: sha256:5540019e19e23ba52ebd568d40485e60473cf9e027a5074d1bc3bf50e61c8b1a

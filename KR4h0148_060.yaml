@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/60
+seq: 60
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷二十九
+  hash: sha256:8327c367261a163506a7571c4cfa051369e3bb11c83435a28dd824babb1f77d5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_060-1a, image: WYG1448/WYG1448-0561a.png}
+body:
+  text: 昌黎韓愈詩三目録薦士古風嗟哉董生行山石汴泗交流贈張僕射鳴鴈雉帶箭條山蒼桃源圖東方半明謁衡嶽廟遂宿嶽寺題門樓永貞行鄭羣贈簟贈崔立之評事送區宏南歸三星行剝啄行孟東野失子
+  hash: sha256:3588bfb50a2e7ffa2b55c59cb3486d6851956fb9abf8f06123d4e7965fa0da7e
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十九目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_060.txt
+hash: sha256:70c3bb31070bead6b6cdc1d1bf5843e5fba679292501192e106a0ddb9507eb47

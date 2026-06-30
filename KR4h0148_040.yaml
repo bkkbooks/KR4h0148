@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/40
+seq: 40
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷十九
+  hash: sha256:d98e87e354f972b8a9f5da44fa737b72f0d679960693b272092f95262c88b716
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_040-1a, image: WYG1448/WYG1448-0404c.png}
+body:
+  text: 太原白居易詩一目録賀雨觀刈麥雲居寺孤桐問友燕詩示劉叟杏園中棗樹放魚文柏牀秦中吟十首議婚重賦傷宅傷友不致仕立碑輕肥五弦歌舞買花和答詩十首録四首和陽城驛答桐花答四皓廟和雉媒
+  hash: sha256:b62b867cba1a3cb5d8961dab3b180d7ecfd42f4490a4f830456b2f6deed69f76
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_040.txt
+hash: sha256:b074ffa0029d26a5f5183347b6ed10254a2e7911e02018a01df2f5f5fc9fd311

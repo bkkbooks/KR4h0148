@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/44
+seq: 44
+front:
+  text: 欽定四庫全書御選唐宋詩醇卷二十一
+  hash: sha256:663e8da65d478766e15d517ae0478f5f1782af2a21fa1420bb9033247da78b6a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_044-1a, image: WYG1448/WYG1448-0432c.png}
+body:
+  text: 太原白居易詩三目録病假中南亭閒望官舍小亭閒望和錢員外禁中夙興見示松聲禁中寓直夢遊仙遊寺秋山題楊穎士西亭秋遊原上閒居遊悟真寺詩朝回遊城南舟行泛湓水晚望遊石門澗香爐峯下新置草堂即事咏懷題於石上長慶二年七月自中書舍人出守杭州路次藍溪作自蜀江至洞庭湖口有感而作立春後五日別元九後咏所懷初與元九別後忽夢見之及寤而書適至兼寄桐花詩悵然感懷因以此寄秋江送客溪中早春渭村雨歸寄微之三首孟夏思渭村舊居寄舍弟南湖晚秋早秋晚望兼呈韋侍御司馬宅寄王質夫送客回晚興東樓竹東坡種花二首步東坡竹窗
+  hash: sha256:d3f5249816b0093d74a7d23802d2316bb2d7434ebc4584d3606255bdc33dc46f
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十一目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_044.txt
+hash: sha256:3b79a53957c4b08023726fac80a7200de7eaa4d439de55180aeefa84024557cc

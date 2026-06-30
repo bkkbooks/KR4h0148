@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0148/WYG/v1/juan/42
+seq: 42
+front:
+  text: 欽定四庫全書御選唐宋詩醇巻二十
+  hash: sha256:14ce1d24b3f65cf40e27ca711db3bfe05700aca100aea9ab38a2d00052ac4676
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_042-1a, image: WYG1448/WYG1448-0416a.png}
+body:
+  text: 太原白居易詩二目錄新樂府七德舞海漫漫立部伎上陽白髪人新豐折臂翁司天臺捕蝗昆明春城鹽州道州民蠻子朝驃國樂縛戎人驪宫髙百鍊鏡青石西涼伎八駿圖澗底松牡丹芳紅線毯杜陵叟賣炭翁陰山道鹽商婦杏為梁紫毫筆隋堤栁秦吉了采詩官
+  hash: sha256:5805a3126d8771aaf6774ac60663e5bab071ccfb5527c07613a8ed3bdce7a36a
+metadata:
+  title: 御選唐宋詩醇
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:20.534600'
+  juan_title: 卷二十目録
+  source:
+    repository: kanripo
+    path: KR4h0148/KR4h0148_042.txt
+hash: sha256:0e77e5d68294f9ee66133c4392edcc3166f5fbb7c27fdbc20a5f5893c3b9a5cf
