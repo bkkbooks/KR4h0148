@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/6
 seq: 6
 front:
-  text: 欽定四庫全書御選唐宋詩醇卷二
-  hash: sha256:48d6bce5ed86935e9d629f9effc6ee462fcacff883b5cb36fe3cdfe5939cc943
+  text: 欽定四庫全書御選唐宋詩醇巻二
+  hash: sha256:1753e9c735dda3aebf2f5ec014a5c22c94bdcd31987df5dfd8ec05ef92dea516
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_006-1a, image: WYG1448/WYG1448-0099c.png}
 body:
-  text: 隴西李白詩二目録逺别離蜀道難梁甫吟烏夜啼烏棲曲戰城南行行且游獵篇飛龍引行路難長相思上留田行前有一樽酒行夜坐吟野田黃雀行箜篌謡夷則格上白鳩拂舞辭日出行北風行
-  hash: sha256:bd2030048b0fabc1f05e4394c7078c53725d908a8562ca2154cc775591394492
+  text: 隴西李白詩二目錄逺别離蜀道難梁甫吟烏夜啼烏棲曲戰城南行行且游獵篇飛龍引行路難長相思上留田行前有一樽酒行夜坐吟野田黃雀行箜篌謡夷則格上白鳩拂舞辭日出行北風行
+  hash: sha256:6124af0eceed17bb2b5808adc510968256627d377d178e25699c72b65ab90a02
 metadata:
   title: 御選唐宋詩醇
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_006.txt
-hash: sha256:c2af0a341a2ae81bd370893550baad09d4101ddef6a6f2d4f3b94245a273ebcd
+hash: sha256:05139f787a36319b84ce5e4c4a5b179eb0eb193b632aff47ac1de7b3f5533fe3

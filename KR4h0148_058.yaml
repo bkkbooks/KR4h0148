@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/58
 seq: 58
 front:
-  text: 欽定四庫全書御選唐宋詩醇卷二十八
-  hash: sha256:77bc71a296fceba80fc0f8683fc97e0fceaae0c995d2462cd071d962ee29c420
+  text: 欽定四庫全書御選唐宋詩醇巻二十八
+  hash: sha256:3a0d48147ed66c6b092d8b05c85a061e0b98bc830505e33b661cdbe5f0268325
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_058-1a, image: WYG1448/WYG1448-0546a.png}
 body:
-  text: 昌黎韓愈詩二目録赴江陵途中寄贈王二十補闕李十一拾遺李二十六員外翰林三學士此日足可惜一首贈張籍歸彭城醉贈張祕書送惠師送靈師縣齊有懷陪杜侍御逰湘西兩寺獨宿有題一首因獻楊常侍嶽陽樓别竇司直送文暢師北逰答張徹
-  hash: sha256:a8b444d0f81b96553b8b301141f9dcd145711af1fa14f0a139e668e74c2403f4
+  text: 昌黎韓愈詩二目録赴江陵途中寄贈王二十補闕李十一拾遺李二十六員外翰林三學士此日足可惜一首贈張籍歸彭城醉贈張秘書送惠師送靈師縣齋有懷陪杜侍御逰湘西兩寺獨宿有題一首因獻楊常侍岳陽樓别竇司直送文暢師北逰答張徹
+  hash: sha256:76990ebf96e7cc6175ef282015abee7f424de3213c0bd522b9b47ddc52ee0468
 metadata:
   title: 御選唐宋詩醇
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_058.txt
-hash: sha256:142dbf91b022addaefdbe536dffad1f42e66aa65a00703448a23dc4e0664dc15
+hash: sha256:f21a9324153d8e2bfcf32808cb2dc8ae056b6e9647a5888aa3243d6e486a8f95

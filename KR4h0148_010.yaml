@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_010-1a, image: WYG1448/WYG1448-0123c.png}
 body:
-  text: 隴西李白詩四目録門有車馬客行東海有勇婦黃葛篇塞下曲來日大難玉階怨襄陽曲大堤曲邯鄲才人嫁為厮飬卒婦北上行短歌行枯魚過河泣丁督護歌樹中草君馬黃少年子少年行豫章行沐浴子靜夜思緑水曲春思子夜吳歌對酒行估客行長相思去婦詞
-  hash: sha256:53444a6b085e48b6d51cc1fcbbf5f40009bacb1d5fd8ea24123128dc9f5f8022
+  text: 隴西李白詩四目錄門有車馬客行東海有勇婦黃葛篇塞下曲來日大難玉堦怨襄陽曲大堤曲邯鄲才人嫁為厮飬卒婦北上行短歌行枯魚過河泣丁督䕶歌樹中草君馬黃少年子少年行豫章行沐浴子静夜思緑水曲春思子夜吳歌對酒行估客行長相思去婦詞
+  hash: sha256:8644620e50b5c873283c37b4ec7ae1091a29e62c8fdc8cbd1a9d47bbe243b57e
 metadata:
   title: 御選唐宋詩醇
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_010.txt
-hash: sha256:97f26038e3dc8774e806a7b96cbaff69ad6ba1c4ed845f9097d46520b0d9a99c
+hash: sha256:8db18e4a8ebdeb0ec92ad5e2f182224e37a9bb25de90742916dd6c7d2e826c84

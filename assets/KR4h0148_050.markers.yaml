@@ -31,7 +31,6 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl4}
   - {type: line-break, offset: 27, content: '', id: KR4h0148_WYG_050-1a06}
   - {type: indent, offset: 27, content: 　　, id: KR4h0148_krp_050-bkkind4}
-  - {type: substitution, offset: 28, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: 'kr:newline', offset: 31, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl5}
@@ -42,7 +41,6 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl6}
   - {type: line-break, offset: 36, content: '', id: KR4h0148_WYG_050-1a08}
   - {type: indent, offset: 36, content: 　　, id: KR4h0148_krp_050-bkkind6}
-  - {type: substitution, offset: 37, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: 'kr:newline', offset: 55, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl7}
@@ -114,7 +112,6 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl20}
   - {type: line-break, offset: 112, content: '', id: KR4h0148_WYG_050-2a04}
   - {type: indent, offset: 112, content: 　　, id: KR4h0148_krp_050-bkkind18}
-  - {type: substitution, offset: 130, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4393}}
   - {type: 'kr:newline', offset: 131, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl21}
@@ -130,13 +127,11 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl23}
   - {type: line-break, offset: 159, content: '', id: KR4h0148_WYG_050-2a07}
   - {type: indent, offset: 159, content: 　　, id: KR4h0148_krp_050-bkkind21}
-  - {type: substitution, offset: 170, original: 牕, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1292}}
   - {type: 'kr:newline', offset: 178, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl24}
   - {type: line-break, offset: 178, content: '', id: KR4h0148_WYG_050-2a08}
   - {type: indent, offset: 178, content: 　　, id: KR4h0148_krp_050-bkkind22}
-  - {type: substitution, offset: 180, original: 牕, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1292}}
   - {type: 'kr:newline', offset: 187, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl25}
@@ -195,7 +190,6 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl36}
   - {type: line-break, offset: 244, content: '', id: KR4h0148_WYG_050-3a02}
   - {type: indent, offset: 244, content: 　　, id: KR4h0148_krp_050-bkkind32}
-  - {type: substitution, offset: 244, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4437}}
   - {type: 'kr:newline', offset: 249, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl37}
@@ -240,7 +234,6 @@ markers:
       ', id: KR4h0148_krp_050-bkkkrnewl45}
   - {type: line-break, offset: 297, content: '', id: KR4h0148_WYG_050-3b02}
   - {type: indent, offset: 297, content: 　　, id: KR4h0148_krp_050-bkkind40}
-  - {type: substitution, offset: 298, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: 'kr:newline', offset: 316, content: '
 
       ', id: KR4h0148_krp_050-bkkkrnewl46}
@@ -336,4 +329,4 @@ markers:
 
       ', id: KR4h0148_krp_050-bkkkrnewl64}
   back: []
-hash: sha256:fba1085aac1a0bdf39410c50e85867bc05dcb0a2724515b5b06bf783e271ce36
+hash: sha256:5c64ccd929bc7afdd111e6a5568a0a875ef6d92d44ae4aefb71071d3aae3c495

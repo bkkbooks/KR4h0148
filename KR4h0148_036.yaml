@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/36
 seq: 36
 front:
-  text: 欽定四庫全書御選唐宋詩醇卷十七
-  hash: sha256:52ea7a807d4f6d5629bffa763f33fa25359cb458e2eeec4a31db6850cac9ebdd
+  text: 欽定四庫全書御選唐宋詩醇巻十七
+  hash: sha256:6a17576c45e1972aa8e46ee9d3c58639903f30ea0c4d9f39c89b9903c9b59b0a
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_036-1a, image: WYG1448/WYG1448-0366a.png}
 body:
-  text: 襄陽杜甫詩九目録移居䕫州郭宿江邉閣西閣口號呈元二十一西閣閣夜瀼西寒望入宅暮春題瀼西新賃草屋秋野五首課小豎鉏斫舍北果林枝蔓荒穢净訖移牀自瀼西荆扉且移居東屯茅屋東屯月夜暫往白帝復還東屯刈稻了咏懷上白帝城上白帝城武侯廟八陳圖謁先主廟灔澦堆灔澦白帝白帝城最髙樓諸葛廟峽口二首天池瞿塘兩崖䕫州歌偶題秋興八首詠懷古跡五首諸將五首秋日䕫府詠懷奉寄鄭監審李賔客之芳一百韻贈李八祕書别三十韻解悶復愁承聞河北諸道節度入朝歡喜口號洞房宿昔能畫鬭雞鸚鵡歷歷驪山提封
-  hash: sha256:bcac2f188d7f11172b393a66ce3d6d18f5411fc96924ec89e54bf7ae34b7bae4
+  text: 襄陽杜甫詩九目録移居䕫州郭宿江邉閣西閣口號呈元二十一西閣閣夜瀼西寒望入宅暮春題瀼西新賃草屋秋野五首課小豎鉏斫舎北果林枝蔓荒穢净訖移牀自瀼西荆扉且移居東屯茅屋東屯月夜暫往白帝復還東屯刈稻了咏懷上白帝城上白帝城武侯廟八陣圖謁先主廟灔澦堆灔澦白帝白帝城最髙樓諸葛廟峽口二首天池瞿塘兩崖䕫州歌偶題秋興八首詠懷古跡五首諸將五首秋日䕫府詠懷奉寄鄭監審李賔客之芳一百韻贈李八秘書别三十韻解悶復愁承聞河北諸道節度入朝歡喜口號洞房宿昔能畫鬭鷄鸚鵡歴歴驪山提封
+  hash: sha256:89936d5b98b98e3d578aa8dd90687c28a61b581709942c9160328eea26738ac3
 metadata:
   title: 御選唐宋詩醇
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_036.txt
-hash: sha256:84ba4f224db6dab50cbeb60f2521d11fe0adab59084b51b33346ffae3dfb18ce
+hash: sha256:7d7fd2986433a7888923395fd850b294b8f1be6cd61b4d9ade35b0fbbabd464e
