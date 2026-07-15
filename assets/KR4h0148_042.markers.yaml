@@ -10,6 +10,7 @@ markers:
 
       ', id: KR4h0148_krp_042-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4h0148_WYG_042-1a02}
+  - {type: substitution, offset: 12, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -21,6 +22,7 @@ markers:
       ', id: KR4h0148_krp_042-bkkkrnewl2}
   - {type: line-break, offset: 7, content: '', id: KR4h0148_WYG_042-1a04}
   - {type: indent, offset: 7, content: 　　　, id: KR4h0148_krp_042-bkkind2}
+  - {type: substitution, offset: 8, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 9, content: '
 
       ', id: KR4h0148_krp_042-bkkkrnewl3}
@@ -50,6 +52,7 @@ markers:
       ', id: KR4h0148_krp_042-bkkkrnewl8}
   - {type: line-break, offset: 21, content: '', id: KR4h0148_WYG_042-1b01}
   - {type: indent, offset: 21, content: 　　　, id: KR4h0148_krp_042-bkkind7}
+  - {type: substitution, offset: 24, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: 'kr:newline', offset: 26, content: '
 
       ', id: KR4h0148_krp_042-bkkkrnewl9}
@@ -196,4 +199,4 @@ markers:
 
       ', id: KR4h0148_krp_042-bkkkrnewl38}
   back: []
-hash: sha256:098c49fc344d9a093a9db9b2aa03cd726f4c348019ecd7ef4db5cfd3bc0f6609
+hash: sha256:512b4f3b4cbe1bcbf1c3988cd035136095aca238a76d7f3d3857d6d5d1a0ef6f

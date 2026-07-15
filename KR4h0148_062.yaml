@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/62
 seq: 62
 front:
-  text: 欽定四庫全書御選唐宋詩醇巻三十
-  hash: sha256:3d0c7ef31e0d59ca43507a03f12572ee0a9b57a7f296f41784ebcceeccee403e
+  text: 欽定四庫全書御選唐宋詩醇卷三十
+  hash: sha256:614261749786cb0085fc655b10f7192ae47c7e61c0d884055dd23f9d556f9dc1
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_062-1a, image: WYG1448/WYG1448-0574a.png}
 body:
-  text: 昌黎韓愈詩四目録陸渾山火和皇甫湜用其韻苦寒和虞部盧四酬翰林錢七赤藤杖歌送湖南李正字歸寄盧仝酬司門盧四兄雲夫院長望秋作誰氏子送無本師歸范陽石鼔歌題炭谷湫祠堂聽潁師彈琴調張籍盧郎中雲夫寄示送盤谷子詩兩章歌以和之病中贈張十八寄崔二十六立之
-  hash: sha256:f8ec825234c39ed44406ed9b2b058f3eeae5c00bc192c976bfd3e8825a1d1012
+  text: 昌黎韓愈詩四目録陸渾山火和皇甫湜用其韻苦寒和虞部盧四酬翰林錢七赤藤杖歌送湖南李正字歸寄盧同酬司門盧四兄雲夫院長望秋作誰氏子送無本師歸范陽石鼓歌題炭谷湫祠堂聽潁師彈琴調張籍盧郎中雲夫寄示送盤谷子詩兩章歌以和之病中贈張十八寄崔二十六立之
+  hash: sha256:341d0cfaa92f5dfc500d8869b15a7681dfaa6eb755d00310c793370a58092f9a
 metadata:
   title: 御選唐宋詩醇
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_062.txt
-hash: sha256:8cff75fe11c6fdc7a2c98914748c18ce8ff2aba7afdc2e3f996dcd606c86edf2
+hash: sha256:e30a1ea8262b958b600fec6fb0421f7e7ff8fb7a42d2091e28e66b432b037058

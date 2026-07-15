@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR4h0148/krp/v1/juan/46
 seq: 46
 front:
-  text: 欽定四庫全書御選唐宋詩醇巻二十二
-  hash: sha256:a02881975cf986ced166a86e39138fd887ec600a6b1d1fd49a90d8cb6291c65d
+  text: 欽定四庫全書御選唐宋詩醇卷二十二
+  hash: sha256:26169b3923fe3ceb68f0f7e3e8a847af1952e571c3253866e390449df60bf1e6
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0148_WYG_046-1a, image: WYG1448/WYG1448-0447a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0148/KR4h0148_046.txt
-hash: sha256:616be3c8d454d6957a9a23d0f0cac1e205f47eb52db909e0125957fda6e6ed5c
+hash: sha256:a854199751e00af80dbe7437fe441a2172042ed6b6ef2d49cca58613d56ddef4
